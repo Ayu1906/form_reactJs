@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
      <Regis />
+    // file Regis -> masuk ke Pages
     </div>
   );
 }
